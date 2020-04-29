@@ -16,8 +16,6 @@ binaries/system/pyrogenesis
 binaries/system/pyrogenesis_dbg
 binaries/system/test
 binaries/system/test_dbg
-#temporarily to push to github
-binaries/data/mods/public
 
 build/workspaces/codeblocks/
 build/workspaces/gcc/
